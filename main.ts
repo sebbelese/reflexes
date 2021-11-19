@@ -58,3 +58,6 @@ input.onButtonPressed(Button.A, function () {
         basic.showNumber(score)
     }
 })
+input.onButtonPressed(Button.B, function () {
+    control.reset()
+})
