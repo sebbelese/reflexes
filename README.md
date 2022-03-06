@@ -1,12 +1,12 @@
 ## Le fonctionnement du jeu
 
-Le score est à zero
+Le score est à zéro
 Pendant 30 secondes
-    • Un nombre entre 1 et 3 est choisi et affiché
-    • Pendant une durée entre 0,2 et 1,5 seconde
-        ◦ Si le bon bouton est pressé, le score est augmenté de 1
-        ◦ Si le mauvais bouton est pressé, le score est diminué de 1
-    • Un dessin et une mélodie sont joués, choisis selon que le score a été augmenté, diminiué ou est resté le même
+    * Un nombre entre 1 et 3 est choisi et affiché
+    * Pendant une durée entre 0,2 et 1,5 seconde
+        * Si le bon bouton est pressé, le score est augmenté de 1
+        * Si le mauvais bouton est pressé, le score est diminué de 1
+    * Un dessin et une mélodie sont joués, choisis selon que le score a été augmenté, diminiué ou est resté le même
 Le score est affiché
 
 
